@@ -1,3 +1,15 @@
+# Python
+
+* add python to my `$PATH`
+* create project repo
+* `pipenv shell` to start venv
+* `pipenv install <package>`
+* `python <nameOfFile>` to run file
+* `exit`
+
+---
+## From Eric
+
 Python Crash Course - Second Edition
 ===
 
